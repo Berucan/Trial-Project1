@@ -25,6 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 - A text editor (eg. VScode)
+- coding partner
 ### Run project test in your local environment.
 
 To get the copy of this project on your local machine, please go ahead and follow the steps below:
